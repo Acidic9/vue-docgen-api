@@ -1,5 +1,5 @@
 {
-  "name": "vue-docgen-api",
+  "name": "vue-docgen-api-babel-7",
   "version": "2.3.13",
   "description": "Toolbox to extract information from Vue component files for documentation generation purposes.",
   "bugs": {
