@@ -1,7 +1,8 @@
 {
-  "name": "vue-docgen-api-babel-7",
+  "name": "@nauticus-blockchain/vue-docgen-api-babel-7",
   "version": "2.3.13",
   "description": "Toolbox to extract information from Vue component files for documentation generation purposes.",
+  "private": true,  
   "bugs": {
     "url": "https://github.com/vue-styleguidist/vue-docgen-api/issues"
   },
