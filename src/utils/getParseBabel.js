@@ -1,4 +1,4 @@
-const babel = require('babel-core')
+const babel = require('@babel/core')
 const path = require('path')
 const process = require('process')
 
@@ -24,7 +24,7 @@ module.exports = function getParseBabel(code, filename, comments = false) {
         },
       ],
     ],
-    plugins: ['transform-object-rest-spread'],
+    plugins: ['@babel/plugin-proposal-object-rest-spread'],
     sourceRoot: cwd,
   }
 
